@@ -16,8 +16,8 @@ marking-RobotAntennaTesla-ipc_antenna_tesla = Antenna
 marking-RobotAntennaTowers = Towers Antenna
 marking-RobotAntennaTowers-ipc_antenna_towers = Antenna
 
-marking-RobotAntennaTV = TV Antenna
-marking-RobotAntennaTV-ipc_antenna_tv = Antenna
+marking-RobotAntennaTv = TV Antenna
+marking-RobotAntennaTv-ipc_antenna_tv = Antenna
 
-marking-RobotAntennaSingleAntenna = Single Antenna
-marking-RobotAntennaSingleAntenna-singleantennaprimary = Antenna
+marking-RobotSingleAntenna = Single Antenna
+marking-RobotSingleAntenna-singleantennaprimary = Antenna
