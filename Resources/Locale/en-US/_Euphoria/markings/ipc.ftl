@@ -19,5 +19,5 @@ marking-RobotAntennaTowers-ipc_antenna_towers = Antenna
 marking-RobotAntennaTv = TV Antenna
 marking-RobotAntennaTv-ipc_antenna_tv = Antenna
 
-marking-RobotSingleAntenna = Single Antenna
-marking-RobotSingleAntenna-singleantennaprimary = Antenna
+marking-SingleAntenna = Single Antenna
+marking-SingleAntenna-singleantennaprimary = Antenna
