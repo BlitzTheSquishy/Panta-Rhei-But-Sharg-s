@@ -11,3 +11,7 @@ marking-SnoutEasternDW-easterndw_secondary = Inner
 
 marking-SnoutBirdMagusSkull = Magus Skull
 marking-SnoutBirdMagusSkull-extra_magus = Magus Skull
+
+marking-EarsEasternD = Eastern Dragon
+marking-EarsEasternD-easternd_ears = Ears
+marking-EarsEasternD-easternd_horns = Horns
