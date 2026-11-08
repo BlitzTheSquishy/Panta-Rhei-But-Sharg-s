@@ -1,4 +1,4 @@
-marking-HumanHairFembun = Fembun
+marking-HumanFembun = Fembun
 
 marking-HumanHairAfricanPigtails = African Pigtails
 
@@ -42,7 +42,7 @@ marking-HumanHairFrontBraidsMedium = Front Braids (Medium)
 
 marking-HumanHairFrontBraidsShort = Front Braids (Short)
 
-marking-HumanHairFullShave = Full Shave
+marking-HumanHairFullshave = Full Shave
 
 marking-HumanHairGatheredlow = Gathered Low
 
@@ -62,7 +62,7 @@ marking-HumanHairLongCurvy = Curvy
 
 marking-HumanHairLongPompadour = Pompadour (Long)
 
-marking-HumanHairLooseBun = Loose Bun
+marking-HumanHairLoosebun = Loose Bun
 
 marking-HumanHairLowpigtails = Low Pigtails
 
@@ -82,37 +82,41 @@ marking-HumanHairPelvicLengthBraid = Braid (Pelvic)
 
 marking-HumanHairPigtailTajaran = Tajaran Pigtail
 
+marking-HumanHairPlateau = Plateau
+
+marking-HumanHairPolseSpecial = Polse Special
+
 marking-HumanHairQueenBee = Queen Bee
 
-marking-HumanHairSagedMohawk = Saged Mohawk
+marking-HumanHairSaggedMohawk = Sagged Mohawk
 
-marking-HumanHairSergeantCut = Sergeant Cut
+marking-HumanHairSergeantcut = Sergeant Cut
 
 marking-HumanHairSharpMohawk = Sharp Mohawk
 
 marking-HumanHairShavedbun = Shaved Bun
 
-marking-HumanHairShavedSides = Shaved Sides
+marking-HumanHairShavedSide = Shaved Side
 
-marking-HumanHairShortandPoofy = Short and Poofy
+marking-HumanHairShortAndPoofy = Short and Poofy
 
 marking-HumanHairShortCurls = Short Curls
 
 marking-HumanHairShorthair8 = Short Hair 8
 
-marking-HumanHairShoulerLengthBraid = Braid (Shoulder)
+marking-HumanHairShoulderLengthBraid = Braid (Shoulder)
 
 marking-HumanHairSideComb = Side Comb
 
 marking-HumanHairSideSpike = Side Spike
 
-marking-HumanHairSpaceLooper = Space Looper
+marking-HumanHairSpaceLoops = Space Loops
 
 marking-HumanHairStar = Star
 
 marking-HumanHairStarFro = Star Fro
 
-marking-HumanHairStubbleShave = Stubble Shaved
+marking-HumanHairStubbleshave = Stubble Shave
 
 marking-HumanHairStyledCurls = Styled Curls
 
