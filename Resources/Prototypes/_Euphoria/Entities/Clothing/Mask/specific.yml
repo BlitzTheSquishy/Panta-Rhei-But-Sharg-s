@@ -1,7 +1,6 @@
 - type: entity
   parent: ClothingMaskBase
   id: ClothingMaskClownNose
-  abstract: true
   name: clown nose
   description: A prankster's nose for those who wish to show off their pretty or not so pretty faces.
   components:
