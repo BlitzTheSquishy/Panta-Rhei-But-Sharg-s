@@ -9,7 +9,6 @@
     sprite: _Euphoria/Clothing/Mask/clownnose.rsi
   - type: Clothing
     sprite: _Euphoria/Clothing/Mask/clownnose.rsi
-  - type: IdentityBlocker
   - type: UseDelay
     delay: 0.5
   - type: EmitSoundOnUse
