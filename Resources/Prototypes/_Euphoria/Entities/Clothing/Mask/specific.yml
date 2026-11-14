@@ -16,6 +16,7 @@
       collection: BikeHorn
       params:
         variation: 0.125
+        pitch: 1.2 # Higher pitch than the Bike Horn for the funny
   - type: EmitSoundOnLand
     sound: *SoundBikeHorn
   - type: EmitSoundOnTrigger
