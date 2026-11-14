@@ -1,5 +1,5 @@
 - type: entity
-  parent: ClothingMaskNose
+  parent: ClothingMaskBase
   id: ClothingMaskClownNose
   abstract: true
   name: clown nose
